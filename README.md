@@ -36,7 +36,7 @@ I am a backend software engineer. I love programming, reading, and bee keeping!
 
 <p>
 
-  <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-springboot?logo=springboot"></a>
+  <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot-white?logo=springboot&logoColor=green"></a>
   <a href="#"><img alt="NumPy"  src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 </p>
@@ -44,7 +44,7 @@ I am a backend software engineer. I love programming, reading, and bee keeping!
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-ubuntu?logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
