@@ -41,7 +41,18 @@ I am a backend software engineer. I love programming, reading, and bee keeping!
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+
+### 🗄️ Databases and Softwares
+
+<p>
+   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Helm" src="https://img.shields.io/badge/Helm-0D101E.svg?logo=helm&logoColor=white"></a>
+    <a href="#"><img alt="Rabbitmq" src="https://img.shields.io/badge/Rabbitmq-white?logo=rabbitmq&logoColor=orange"></a>
+</p>
+
+### 💻 Tools
 
 <p>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu&logoColor=white"></a>
