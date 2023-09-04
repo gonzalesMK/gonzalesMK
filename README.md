@@ -50,6 +50,9 @@ I am a backend software engineer. I love programming, reading, and bee keeping!
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Helm" src="https://img.shields.io/badge/Helm-0D101E.svg?logo=helm&logoColor=white"></a>
     <a href="#"><img alt="Rabbitmq" src="https://img.shields.io/badge/Rabbitmq-white?logo=rabbitmq&logoColor=orange"></a>
+    <a href="#"><img alt="Azure Devops" src="https://img.shields.io/badge/Azure%20Devops-white?logo=azuredevops&logoColor=blue"></a>
+    <a href="#"><img alt="Azure Pipelines" src="https://img.shields.io/badge/Azure%20Pipelines-white?logo=azurepipelines&logoColor=blue"></a>
+    
 </p>
 
 ### 💻 Tools
