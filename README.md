@@ -10,10 +10,6 @@
 
 I am a backend software engineer. I love programming, reading, and bee keeping!
 
-As a software engineer, I enjoy creating new things, improving the one existing and 
-
-That's why I like to make things that make a difference.
-
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 ### Talking about Personal Stuffs:
@@ -22,6 +18,41 @@ That's why I like to make things that make a difference.
 - 🔭 I’m currently working on BEES and finishing my Master's degree
 - 💬 Ask me about anything, I am happy to help
 - 📬 Reach me through linkedIn
+
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming languages
+
+<p>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</p>
+
+
+### 🧰 Frameworks and libraries
+
+<p>
+
+  <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-springboot?logo=springboot"></a>
+  <a href="#"><img alt="NumPy"  src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+</p>
+
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-ubuntu?logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-neovim?logo=neovim&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
 
 <!--
 **gonzalesMK/gonzale### Talking about Personal Stuffs:
