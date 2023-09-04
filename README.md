@@ -74,7 +74,7 @@ I am a backend software engineer. I love programming, reading, and bee keeping!
 
 ### My content
 
-Neovim configuration files: [neovim-dotenv](https://github.com/gonzalesMK/neovim-dotenv)
+Neovim configuration files: [neovim-dotenv](https://github.com/gonzalesMK/neovim-dotenv/)
 
 <!--
 **gonzalesMK/gonzale### Talking about Personal Stuffs:
