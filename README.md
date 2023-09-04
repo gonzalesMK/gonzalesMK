@@ -36,13 +36,15 @@ I am a backend software engineer. I love programming, reading, and bee keeping!
 
 <p>
 
-  <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot-white?logo=springboot&logoColor=green"></a>
+  <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"></a>
+  <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-white?logo=hibernate&logoColor=59666C"></a>
   <a href="#"><img alt="NumPy"  src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?logo=pandas&logoColor=white"></a>  
 </p>
 
 
-### 🗄️ Databases and Softwares
+### 🗄️ Databases and Software
 
 <p>
    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
